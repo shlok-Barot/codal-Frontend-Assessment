@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "brand": "Mobile",
+    "name": "DTE 10 Excel 100",
+    "sku": "130833",
+    "multipleSizesAvailable": true,
+    "price": 23.33
+  },
+  {
+    "id": 2,
+    "brand": "Old World",
+    "name": "DTE 15 Excel 200",
+    "sku": "140922",
+    "multipleSizesAvailable": true,
+    "price": 45.67
+  },
+  {
+    "id": 3,
+    "brand": "Peak",
+    "name": "DTE 20 Excel 300",
+    "sku": "150112",
+    "multipleSizesAvailable": true,
+    "price": 39.99
+  },
+  {
+    "id": 4,
+    "brand": "Mobile",
+    "name": "DTE 25 Excel 400",
+    "sku": "160245",
+    "multipleSizesAvailable": true,
+    "price": 50.23
+  },
+  {
+    "id": 5,
+    "brand": "Old World",
+    "name": "DTE 30 Excel 500",
+    "sku": "170756",
+    "multipleSizesAvailable": true,
+    "price": 34.88
+  },
+  {
+    "id": 6,
+    "brand": "Peak",
+    "name": "DTE 35 Excel 600",
+    "sku": "180344",
+    "multipleSizesAvailable": true,
+    "price": 28.49
+  },
+  {
+    "id": 7,
+    "brand": "Mobile",
+    "name": "DTE 40 Excel 700",
+    "sku": "190822",
+    "multipleSizesAvailable": true,
+    "price": 60.12
+  },
+  {
+    "id": 8,
+    "brand": "Old World",
+    "name": "DTE 45 Excel 800",
+    "sku": "200934",
+    "multipleSizesAvailable": true,
+    "price": 41.55
+  },
+  {
+    "id": 9,
+    "brand": "Peak",
+    "name": "DTE 50 Excel 900",
+    "sku": "210123",
+    "multipleSizesAvailable": true,
+    "price": 29.75
+  },
+  {
+    "id": 10,
+    "brand": "Mobile",
+    "name": "DTE 55 Excel 1000",
+    "sku": "220401",
+    "multipleSizesAvailable": true,
+    "price": 47.89
+  },
+  {
+    "id": 11,
+    "brand": "Old World",
+    "name": "DTE 60 Excel 1100",
+    "sku": "230342",
+    "multipleSizesAvailable": true,
+    "price": 52.15
+  },
+  {
+    "id": 12,
+    "brand": "Peak",
+    "name": "DTE 65 Excel 1200",
+    "sku": "240789",
+    "multipleSizesAvailable": true,
+    "price": 55.44
+  },
+  {
+    "id": 13,
+    "brand": "Mobile",
+    "name": "DTE 70 Excel 1300",
+    "sku": "250987",
+    "multipleSizesAvailable": true,
+    "price": 42.22
+  },
+  {
+    "id": 14,
+    "brand": "Old World",
+    "name": "DTE 75 Excel 1400",
+    "sku": "260121",
+    "multipleSizesAvailable": true,
+    "price": 38.49
+  },
+  {
+    "id": 15,
+    "brand": "Peak",
+    "name": "DTE 80 Excel 1500",
+    "sku": "270654",
+    "multipleSizesAvailable": true,
+    "price": 49.33
+  },
+  {
+    "id": 16,
+    "brand": "Mobile",
+    "name": "DTE 85 Excel 1600",
+    "sku": "280899",
+    "multipleSizesAvailable": true,
+    "price": 31.77
+  },
+  {
+    "id": 17,
+    "brand": "Old World",
+    "name": "DTE 90 Excel 1700",
+    "sku": "290555",
+    "multipleSizesAvailable": true,
+    "price": 63.99
+  },
+  {
+    "id": 18,
+    "brand": "Peak",
+    "name": "DTE 95 Excel 1800",
+    "sku": "300233",
+    "multipleSizesAvailable": true,
+    "price": 44.10
+  },
+  {
+    "id": 19,
+    "brand": "Mobile",
+    "name": "DTE 100 Excel 1900",
+    "sku": "310688",
+    "multipleSizesAvailable": true,
+    "price": 54.89
+  },
+  {
+    "id": 20,
+    "brand": "Old World",
+    "name": "DTE 105 Excel 2000",
+    "sku": "320876",
+    "multipleSizesAvailable": true,
+    "price": 30.12
+  },
+  {
+    "id": 21,
+    "brand": "Peak",
+    "name": "DTE 110 Excel 2100",
+    "sku": "330344",
+    "multipleSizesAvailable": true,
+    "price": 26.89
+  },
+  {
+    "id": 22,
+    "brand": "Mobile",
+    "name": "DTE 115 Excel 2200",
+    "sku": "340555",
+    "multipleSizesAvailable": true,
+    "price": 37.49
+  },
+  {
+    "id": 23,
+    "brand": "Old World",
+    "name": "DTE 120 Excel 2300",
+    "sku": "350899",
+    "multipleSizesAvailable": true,
+    "price": 58.33
+  },
+  {
+    "id": 24,
+    "brand": "Peak",
+    "name": "DTE 125 Excel 2400",
+    "sku": "360122",
+    "multipleSizesAvailable": true,
+    "price": 65.99
+  },
+  {
+    "id": 25,
+    "brand": "Mobile",
+    "name": "DTE 130 Excel 2500",
+    "sku": "370245",
+    "multipleSizesAvailable": true,
+    "price": 48.77
+  }
+]
